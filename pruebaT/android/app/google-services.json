@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "57544460218",
+    "project_id": "pruebatecnicasofia-35e8b",
+    "storage_bucket": "pruebatecnicasofia-35e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57544460218:android:dde35580f6432a5108bf83",
+        "android_client_info": {
+          "package_name": "com.example.pruebaT"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57544460218-rcv398udoah6dbku7kuafedaefj9tpcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7YZGKFAD-42t2iXSifVfuO5BNbsCqY38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57544460218-rcv398udoah6dbku7kuafedaefj9tpcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57544460218:android:24efeabcebb49f9b08bf83",
+        "android_client_info": {
+          "package_name": "com.example.pruebat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57544460218-rcv398udoah6dbku7kuafedaefj9tpcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7YZGKFAD-42t2iXSifVfuO5BNbsCqY38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57544460218-rcv398udoah6dbku7kuafedaefj9tpcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
